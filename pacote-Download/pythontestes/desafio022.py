@@ -1,0 +1,6 @@
+nome = str(input('Digite seu nome completo: ')).strip()
+print('Analisando seu nome...')
+print(f'Nome em maiúsculas: {nome.upper()}')
+print(f'Nome em minúsculas: {nome.lower()}')
+print(f'Quantidade de letras existentes sem os espaços {len(nome) - nome.count(" ")}')
+print(f'Quantidade de letras só do primeiro nome {nome.find(" ")}')
