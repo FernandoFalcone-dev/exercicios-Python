@@ -1,4 +1,4 @@
 # exercicios-Python
- Resolução de lista de exercícios em Python.
+ Resolução de lista de exercícios em **Python**.
  
- Os exercícios em Python são oferecidos pela organização Curso em Vídeo.
+ Os exercícios em __Python__ são oferecidos pela organização *Curso em Vídeo*.
